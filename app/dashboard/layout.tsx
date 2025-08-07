@@ -18,3 +18,4 @@ const Layout: FC<ILayout> = ({ children }) => {
 };
 
 export default Layout;
+export const experimental_ppr = true;
