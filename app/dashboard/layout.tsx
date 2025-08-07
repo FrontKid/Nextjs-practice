@@ -5,7 +5,6 @@ import SideNav from '@/app/ui/dashboard/sidenav';
 interface ILayout {
   children: ReactNode;
 }
-export const experimental_ppr = true;
 
 const Layout: FC<ILayout> = ({ children }) => {
   return (
